@@ -1,0 +1,85 @@
+* {
+  margin: 2px;
+  padding: 2px;
+}
+
+img {
+  float: left;
+}
+
+.Bekenddoor  {
+    border: 4px maroon double;
+    border-radius: 20px 0px 20px 0px;
+    text-align: justify;
+    padding: 5px;
+    border: 5px solid orange;
+    margin-right: 10px;
+}
+
+.Filmpje	{
+  float: left;
+}
+ul.NavigatieMenu {
+  color: red;
+}
+
+ul.NavigatieMenu li{
+  color: red;
+  padding: 2px;
+}
+
+.Tabel td, tr, th {
+  border: 1px solid black;
+
+}
+
+p.Home {
+  border: 2px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 2px solid purple;
+  margin-right: 10px;
+}
+p.Biografie {
+  border: 4px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 5px solid red;
+  margin-right: 10px;
+}
+
+img{
+float: left;
+}
+iframe{
+float: right;
+}
+body {
+  background: white;
+}
+
+img{
+  float: left;
+}
+
+ h2 {
+  border: 4px solid blue;
+  color: #e02245;
+  background-color: purple;
+  text-align : center;
+  font-family: Georgia, "Times New Roman" , Times, serif;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+body {
+  margin: 0 0% 0 0%; /* links en rechts 10% marge, boven en onder geen marge  */
+  background-color: red;
+}
